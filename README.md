@@ -165,7 +165,7 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
  
  date            :2020 May
  
- version         :1.1.0
+ version         :2.1.9
  
  usage           :cd Scraper_Instagram
  
