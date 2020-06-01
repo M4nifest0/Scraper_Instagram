@@ -171,15 +171,6 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
  
  channel          :t.me/hack4lxCombo
  
-
-✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-🦠 YouTube👣:: (http://b2n.ir/934271)
-
-✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-🔥 Github🗣:: (github.com/attakercyebr)
-
 ✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
@@ -203,10 +194,10 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtube.com/theunknon">
+  <a href="https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw/videos?view_as=subscriber">
     <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
   </a>
   <a href="https://instagram.com/th3unkn0n">
-    <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
+    <img src="https://media.istockphoto.com/vectors/white-paper-plane-on-blue-background-vector-illustration-vector-id951164518?s=170x170" width="40" height="40">
 </p>
 
