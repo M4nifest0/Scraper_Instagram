@@ -173,6 +173,12 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
  
 ✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
+☠️👊𝓷𝓲𝓯𝓮𝓼𝓽4𝓷𝓲𝓯𝓮𝓼𝓽0 (MCS) 
+[![Telegram Groups ](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/M4nifest0)
+ 💪We are a team of ☠️ 𝓑𝓵𝓪𝓬𝓴 💀 𝓗𝓪𝓽  🏴‍☠️ 𝓗𝓪𝓬𝓴𝓮𝓻𝓼 💪 because we know what is at stake.😡 We prepare hackers by providing training and hacking tools. ⚠️We are one of the few Black hat hacking teams that show you their skills.👁‍🗨🏴‍☠️☠️💪
+
+✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
 
 ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
@@ -195,9 +201,9 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
 </p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw/videos?view_as=subscriber">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvLr5fD-eMCnZcAP7FjjrSYKH22i5onx2VZVX8dydMoe-dQLHRmUKb8xs&s" width="40" height="40">
   </a>
-  <a href="https://instagram.com/th3unkn0n">
+  <a href="https://t.me/M4nifest0">
     <img src="https://media.istockphoto.com/vectors/white-paper-plane-on-blue-background-vector-illustration-vector-id951164518?s=170x170" width="40" height="40">
 </p>
 
