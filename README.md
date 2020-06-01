@@ -199,17 +199,14 @@ CSV path: /{CURRENT_PATH}/hack4lx_1552945659138.csv
 •The author of the does not encourage anyone to repeat this. Otherwise, you will be solely responsible. The was created for informational purposes. And for the fact that you caution you!
 
 ✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+<p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://youtube.com/theunknon">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+  </a>
+  <a href="https://instagram.com/th3unkn0n">
+    <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
+</p>
 
-✯Just Leave Like & Subs You Can Share iT With Y're lovely Friends
-
-✯ Thank's For/4 Watching ^^
-
-Cσρчяιgнτ ©2018 ✪ @hack4lx ✪
-
-💻 （︶︿︶）Hacking security team（︶︿︶）
-
-💢™M4nifest0 Cyber security team™💢
-
-🆔 @hack4lx
-
-😎 Telegram : 🆔 @M4nifest0
