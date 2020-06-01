@@ -193,7 +193,7 @@ Telegram Chat ID 📞 [![Telegram Chat](https://img.shields.io/badge/chat%20on-T
 ✂️●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
 <p align="center">
-  ✯ Follow Me On ♥️
+  ✯ Follow Me On ♥️👇🏾👇🏾👇🏾
 </p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw/videos?view_as=subscriber">
