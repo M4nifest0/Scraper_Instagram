@@ -200,6 +200,6 @@ Telegram Chat ID 📞 [![Telegram Chat](https://img.shields.io/badge/chat%20on-T
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIe0KA-4U2wilfj3CwcetOZYjaXr_C6bh5b9Xp3eDfeATwkhn82b70ELBt&s" width="40" height="40">
   </a>
   <a href="https://t.me/M4nifest0">
-    <img src="https://media.istockphoto.com/vectors/white-paper-plane-on-blue-background-vector-illustration-vector-id951164518?s=170x170" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOo5m2bMLsKVd9-ZjGf0xl0SAVqj9Fgxvu89_iu24qUcWQJ-X_1lvI5yOIA&s" width="40" height="40">
 </p>
 
