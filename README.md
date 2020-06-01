@@ -212,4 +212,4 @@ Cσρчяιgнτ ©2018 ✪ @hack4lx ✪
 
 🆔 @hack4lx
 
-😎 Telegram : 🆔 @os20ir
+😎 Telegram : 🆔 @M4nifest0
